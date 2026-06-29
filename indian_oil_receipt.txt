@@ -1,1 +1,1 @@
-cat /home/workdir/artifacts/indian_oil_receipt.txt | cat
+cat /home/workdir/artifacts/indian_oil_receipt.txt
