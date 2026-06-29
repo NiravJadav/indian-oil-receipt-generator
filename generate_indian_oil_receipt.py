@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/generate_indian_oil_receipt.py | cat
