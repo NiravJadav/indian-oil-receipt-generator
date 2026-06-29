@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/generate_batch_original_style.py
