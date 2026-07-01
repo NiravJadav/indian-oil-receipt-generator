@@ -1,1 +1,1 @@
-cat /tmp/README_update.md
+cat /tmp/good_readme.md
